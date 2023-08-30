@@ -1,0 +1,118 @@
+  {
+    "header": {
+      "headLine": "Hello. I'm a freelance user interface developer",
+      "discription": "My name’s Michael Pumo. I craft user interfaces using modren frontend technologies",
+      "twitter": "https://twitter.com/michaelpumo",
+      "github": "https://github.com/michaelpumo",
+      "linkedin": "https://www.linkedin.com/in/michaelpumo",
+      "resume": "https://michaelpumo.cdn.prismic.io/michaelpumo/a40b9c43-29fd-421e-8484-6263a9d59584_michael-pumo-2024.pdf"
+    },
+    "sectionI": {
+      "image": "https://images.prismic.io/michaelpumo/066abc58-23ad-4019-9dc3-c3a5e465cb1f_michael-pumo-developer.jpg"
+    },
+    "sectionII": {
+      "heading": "I enjoy working closely with design teams to faithfully translate their designs right down to the last pixel. Daily, you'll find me using modern frontend technologies that bring the creative process to life just as designers intended them to be.",
+      "subHeading": [
+        {
+          "title": "Technical",
+          "discription": "Right now you can find me hacking away primarily with Vue, Nuxt, Storyblok, Prismic, GraphQL, Netflify, React and in general anything JavaScript / TypeScript, HTML and CSS related."
+        },
+        {
+          "title": "Personal",
+          "discription": "I grew up in Nottingham and moved to London many years ago. Being half Italian and half British, I try to visit family in Sicily whenever I can to practice (struggling) with the basics of the language."
+        }
+      ],
+      "aurthor": "Allora, lavoriamo insieme!"
+    },
+    "sectionIII": [
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      },
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      },
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      },
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      },
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      },
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      },
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      },
+      {
+        "logo": "https://uploads-ssl.webflow.com/63a1a09fd6b229280c52d17e/63a313c6ca8aa6240e1e5dc1_Logo%20Inverse-p-500.png",
+        "title": "SomeOne",
+        "discription": "Greenfield project using Nuxt.js with Prismic hosted on Zeit Now."
+      }
+    ],
+    "sectionIV": [
+      {
+        "heading": "We've worked with Michael on several projects and the work is of consistently high-quality. He continues to be one of our most valued digital resources and we look forward to working together more in future.",
+        "aurthor": "Matt Bland",
+        "designation": "Managing Director at Ragged Edge"
+      },
+      {
+        "heading": "Michael was incredibly thorough and professional in bringing our new website to life. As designers, we can be quite picky about how things work, but he took the challenge and developed every single aspect beautifully.",
+        "aurthor": "Renata Garcia",
+        "designation": "Producer at Moth"
+      },
+      {
+        "heading": "Working with Michael has always been a smooth process from initial concepts to problem-solving, right through to every aspect of the development stages. He's our perfect digital partner.",
+        "aurthor": "Paul Fox",
+        "designation": "Creative Director at Parallel"
+      }
+    ],
+    "sectionV": [
+      {
+        "image": "https://www.w3schools.com/css/img_forest.jpg",
+        "title": "G.F Smith",
+        "discription": "135 years making and curating the world’s finest and most distinctive papers."
+      },
+      {
+        "image": "https://www.w3schools.com/css/img_forest.jpg",
+        "title": "G.F Smith",
+        "discription": "135 years making and curating the world’s finest and most distinctive papers."
+      },
+      {
+        "image": "https://www.w3schools.com/css/img_forest.jpg",
+        "title": "G.F Smith",
+        "discription": "135 years making and curating the world’s finest and most distinctive papers."
+      },
+      {
+        "image": "https://www.w3schools.com/css/img_forest.jpg",
+        "title": "G.F Smith",
+        "discription": "135 years making and curating the world’s finest and most distinctive papers."
+      },
+      {
+        "image": "https://www.w3schools.com/css/img_forest.jpg",
+        "title": "G.F Smith",
+        "discription": "135 years making and curating the world’s finest and most distinctive papers."
+      },
+      {
+        "image": "https://www.w3schools.com/css/img_forest.jpg",
+        "title": "G.F Smith",
+        "discription": "135 years making and curating the world’s finest and most distinctive papers."
+      }
+    ]
+  }

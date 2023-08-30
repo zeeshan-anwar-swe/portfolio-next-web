@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --vh: 1vh;
+  --special-pink:#9c5757;
+  --color-theme: #fd8e8e;
+  --color-general: #2e304b;
+  --spacing-unit: 30px;
+  --button-size: 50px;
+  --field-size: 50px;
+  --gray-p: #6b6c7b;
+}
+
+.trans{
+  @apply transition-all duration-300 ease-in-out
+}
+
+.text-c-pink{
+  color:#fd8e8e
+}
+
+.text-c-yellow{
+  color: #fde58e;
+}
+
+.text-c-green{
+  color:#8efdb0;
+}
+
+/* .bg-c-pink{
+  background: #fd8e8e;
+  background-color: #fd8e8e;
+}
+
+.bg-c-yellow{
+  background: #fde58e;
+  background-color: #fde58e;
+}
+
+.bg-c-green{
+  background: #8efdb0;
+  background-color: #8efdb0;
+} */
+
+.border-c-pink{
+  border: 2px solid var(--color-theme);
+} 
+
+.border-c-yellow{
+  border: 2px solid #fde58e;
+}
+
+.border-c-green{
+  border: 2px solid #8efdb0;
+}
+
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.s2-p{
+  color: var(--gray-p);
+}
+
+.box {
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-general);
+  animation: widthAnimation 1s cubic-bezier(0,1,1,1) forwards;
+}
+
+@keyframes widthAnimation {
+  0% {
+    opacity: 0%;
+    width: 0%;
+  }
+   50%{
+    opacity: 0%;
+   }
+  100% {
+    opacity: 100%;
+    width: 100%;
+  }
+}
+
+.box2 {
+  animation: listAnimation 1s cubic-bezier(0,1,1,1) forwards;
+}
+
+@keyframes listAnimation {
+  0% {
+    opacity: 0%;
+    margin-left: 100%;
+  }
+  
+  100% {
+    opacity: 100%;
+    margin-left: 0%;
+  }
+}
